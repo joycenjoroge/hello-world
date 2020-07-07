@@ -1,2 +1,3 @@
 # hello-world
-A repository
+Hi,
+I love networking and fries.
